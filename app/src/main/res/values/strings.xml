@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DataItem</string>
+    <string name="apple_pie">Apple Pie</string>
+    <string name="textview">a menu item</string>
 </resources>
